@@ -33,4 +33,5 @@ def kesha_maker(array)
 end 
 
 def find_a(word)
-  word.select "a" 
+  word.select do |x|
+    
