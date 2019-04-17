@@ -43,5 +43,5 @@ def sum_array(array)
 end 
 
 def add_s(array)
-  array
+  array.map_with_index 
 end 
