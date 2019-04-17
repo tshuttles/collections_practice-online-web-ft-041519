@@ -34,4 +34,13 @@ end
 
 def find_a(word)
   word.select do |x|
-    
+    x.start_with? "a" 
+  end 
+end 
+
+def sum_array 
+
+
+
+
+
