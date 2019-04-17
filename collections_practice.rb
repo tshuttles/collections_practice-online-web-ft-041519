@@ -47,7 +47,7 @@ def add_s(array)
   if b == 1
     a 
   else 
-    b << "s" 
+    a << "s" 
   end 
   end 
 end 
