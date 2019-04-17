@@ -43,7 +43,7 @@ def sum_array(array)
 end 
 
 def add_s(array)
-  array.map_with_index do |a, b|
+  array.map.with_index do |a, b|
   if b == 1
     a 
   else 
