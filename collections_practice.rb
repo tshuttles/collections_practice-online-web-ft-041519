@@ -44,5 +44,5 @@ end
 
 def add_s(array)
   array.map_with_index do |a, b|
-  
+  if 
 end 
