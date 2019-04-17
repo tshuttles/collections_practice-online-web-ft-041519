@@ -38,8 +38,8 @@ def find_a(word)
   end 
 end 
 
-def sum_array 
-
+def sum_array(array)
+  array.inject 
 
 
 
