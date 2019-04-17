@@ -39,7 +39,7 @@ def find_a(word)
 end 
 
 def sum_array(array)
-  array.inject 
+  array.inject {
 
 
 
