@@ -34,7 +34,7 @@ end
 
 def find_a(word)
   word.select do |x|
-    x.start_with? "a" 
+    x.start_with?("a")
   end 
 end 
 
